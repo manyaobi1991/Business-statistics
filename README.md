@@ -1,10 +1,6 @@
-# Data Scientist
+# Michael Anyanwu's Portfolio
 
-### Education
-Data science and Business analysis, University of Texas at Austin   2019
+# Project 1: E-news Express Project (Business statistics)
 
-Master of Engineering in Chemical Engineering, University of Ottawa  2018
-
-Bachelor of Engineering in Chemical Engineering     2014  
-
-### Work Experience
+## Objectives
+* This project used statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers or not. The simulated dataset has certain important metrics such as converted status and time spent on the page that will help to conclude the effectiveness of the new landing page. Apart from that, the dependence of conversion on the preferred language will also be analyzed in this project.
