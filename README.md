@@ -1,6 +1,6 @@
 # Michael Anyanwu's Portfolio
 
-# [Project 1: E-news Express Project (Business statistics)](https://github.com/manyaobi1991/manyaobi1991.github.io/blob/main/README.md)
+# Project 1: E-news Express Project (Business statistics)
 
 ## Problem statement
 * Information in the form of electronic news is one of the various ways people can get vital updates on a regular basis world wide. In comparison with newspapers, electronic news is extracted from a common database through which the contents are easily accessible to the general public through videos, audio channels, etc. An online news company known as E-news Express is currently looking at getting the attention of more news subscribers. The news platform works in such a way that users complete actions that best suits their interest and as such the company would like to understand those interests and explore ways to improve user experience. It has also come to the attention of the company management that there has been a rapid decline in new monthly subscribers as compared to the past year. It was also determined that the current webpage does not have the required content to engage and keep users for longer time to enable them subscribe to the news.
